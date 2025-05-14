@@ -1,0 +1,2 @@
+/Users/anhdinhhoangquang/dmrtd/example/android/app/.cxx/Debug/661gth47/x86_64/CMakeFiles/edit_cache.dir
+/Users/anhdinhhoangquang/dmrtd/example/android/app/.cxx/Debug/661gth47/x86_64/CMakeFiles/rebuild_cache.dir
