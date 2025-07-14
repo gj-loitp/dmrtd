@@ -22,7 +22,8 @@ dependencies:
   tripledes_nullsafety: ^1.0.3
   pointycastle:
   diffie_hellman: ^0.1.2
-  crypto_keys_plus: ^0.4.0 # till cypto_keys lib is not updated
+#  crypto_keys_plus: ^0.4.0 # till cypto_keys lib is not updated
+  crypto_keys_plus:
   asn1lib: ^1.6.2
 
 dev_dependencies:
